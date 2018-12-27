@@ -1,2 +1,5 @@
 Hi this is first line===>1
+<<<<<<< HEAD
 hi this venkykaluva
+=======
+>>>>>>> parent of 7fabba6... added second line
